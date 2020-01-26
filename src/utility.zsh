@@ -1,6 +1,7 @@
 alias v='$VISUAL'
 alias e='$EDITOR'
 alias p='$PAGER'
+alias b='$BROWSER'
 
 alias ls='ls --group-directories-first --color=auto -Xv'
 alias l='ls -1A'         # Lists in one column, hidden files.

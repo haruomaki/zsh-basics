@@ -11,3 +11,9 @@ bindkey "." expand-dot-to-parent-directory-path
 
 # Disable beep sound
 setopt no_beep
+
+# Enable aliases in the sudo command
+alias sudo='sudo '
+
+# Alias for trash-cli
+alias rm='trash'
